@@ -1,0 +1,10 @@
+numpy
+scipy
+pyinstaller
+PyQt5
+PyQtDataVisualization
+PyQtChart
+parse
+jsonpickle
+simplejson
+peakutils
